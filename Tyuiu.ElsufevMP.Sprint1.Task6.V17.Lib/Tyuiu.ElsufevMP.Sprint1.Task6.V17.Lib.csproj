@@ -40,7 +40,7 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
     <Reference Include="tyuiu.cources.programming.interfaces">
-      <HintPath>..\..\Dll\tyuiu.cources.programming.interfaces.dll</HintPath>
+      <HintPath>..\tyuiu.cources.programming.interfaces.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
